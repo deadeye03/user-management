@@ -5,7 +5,7 @@ import './index.css'
 import './loading.css'
 import RootLayout from './layout/RootLayout'
 import HomePage from './routes/HomePage'
-import UserInfo from './routes/userInfo'
+import UserInfo from './routes/UserInfo'
 import CreateUser from './routes/CreateUser'
 import UpdateUser from './routes/UpdateUser'
 
